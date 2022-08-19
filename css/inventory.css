@@ -1,0 +1,214 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-image: url(images/woman.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.dropdown{
+    border: solid gray 1px;
+    border-radius: 9px;
+    width: 200px;
+    padding-left: 0px;
+    margin-left: 10px;
+}
+.parent{
+    display: flex;
+    
+}
+.div2{  
+    height: 40px;
+    padding-top: 30px;
+    margin-bottom: 10px;
+    background-color: rgb(31, 31, 36);
+    font-size: 10%;
+}
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-image: url(images/nootebookpc.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.dropdown{
+    border: solid gray 1px;
+    border-radius: 9px;
+    width: 200px;
+    padding-left: 0px;
+    margin-left: 10px;
+}
+.parent{
+    display: flex;
+    
+}
+table{
+    color: white;
+}
+tr{
+    color: aliceblue;
+}
+.div2{  
+    height: 40px;
+    padding-top: 30px;
+    margin-bottom: 10px;
+    background-color: rgb(31, 31, 36);
+    font-size: 10%;
+}
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-image: url(images/woman-1439909.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.dropdown{
+    border: solid gray 1px;
+    border-radius: 9px;
+    width: 200px;
+    padding-left: 0px;
+    margin-left: 10px;
+}
+.parent{
+    display: flex;
+    
+}
+table{
+    color: white;
+}
+tr{
+    color: aliceblue;
+}
+.div2{  
+    height: 40px;
+    padding-top: 30px;
+    margin-bottom: 10px;
+    background-color: rgb(31, 31, 36);
+    font-size: 10%;
+}
+
+body{
+    background-image: url(images/model.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    padding-top: 30px;
+}
+h1{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    padding-top: 150px;
+    color: white;
+    font-size: 200px;
+}
+h4{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+    font-size: 40%;
+}
+a{
+    position: relative;
+    display: inline-block;
+    padding: 15px 30px;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 24px;
+    overflow: hidden;
+    transition: 0.2s;
+}
+a:hover{
+    color: #021f3b;
+    font-size: 26px;
+    border-radius: 6px;
+    background-color: #2196f3;
+    box-shadow: 0 0 10px #2196f3, 0 0 4px #2196f3,0 0 80px #2196f3;
+    transition-delay: 0.1s;
+    text-decoration: none;
+    border-radius: 9px;
+}
+a:active{
+    font-size: 100px;
+}
+a span{
+    position: absolute;
+    display: block;
+}
+a span:nth-child(1){
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, #2196f3);
+}
+a:hover span:nth-child(1){
+    left: 100%;
+    transition: 0.60s;
+
+}
+
+a span:nth-child(3){
+    bottom: 0;
+    right: -100%;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(270deg, transparent, #2196f3);
+}
+a:hover span:nth-child(3){
+    right: 100%;
+    transition: 0.60s;
+    transition-delay: 0.5s;
+}
+a span:nth-child(2){
+    top: -100%;
+    right: 0;
+    width: 2%;
+    height: 100%;
+    background: linear-gradient(180deg, transparent, #2196f3);
+}
+a:hover span:nth-child(2){
+    top: 100%;
+    transition: 0.60s;
+    transition-delay: 0.25s;
+}
+a span:nth-child(4){
+    bottom: -100%;
+    left: 0;
+    width: 2%;
+    height: 100%;
+    background: linear-gradient(360deg, transparent, #2196f3);
+}
+a:hover span:nth-child(4){
+    bottom: 100%;
+    transition: 0.60s;
+    transition-delay: 0.75s;
+}
+
+

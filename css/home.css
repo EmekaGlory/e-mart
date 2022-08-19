@@ -1,0 +1,11 @@
+body{
+    background-color: #F1F;
+}
+table{
+    border: 0;
+    width: 100%;
+    background-color: #2874F0;
+}
+table tr{
+    background-color: black;
+}
